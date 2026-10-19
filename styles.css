@@ -22,8 +22,7 @@ header nav ul a {
 }
 
 header nav ul a:hover{
-    text-decoration: none;
-    color: #007BFF;
+    color: #1f1f1f;
 }
 
 header nav ul {
@@ -33,4 +32,8 @@ header nav ul {
     font-family: "Merriweather", serif;
     font-optical-sizing: auto;
     font-weight: 600;
+}
+
+.section-hero img#Background {
+    width: 100%;
 }
