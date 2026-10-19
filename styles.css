@@ -29,7 +29,7 @@ header nav ul {
     list-style: none;
     display: flex;
     gap: 1rem;
-    font-family: "Merriweather", serif;
+    font-family: "Poppins", serif;
     font-optical-sizing: auto;
     font-weight: 600;
 }
