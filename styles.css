@@ -37,3 +37,24 @@ header nav ul {
 .section-hero img#Background {
     width: 100%;
 }
+
+.hero-popup {
+    padding: 2rem;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    background-color: #fff3e3;
+}
+
+.hero-popup p {
+    font-optical-sizing: auto;
+    font-weight: 600;
+    color: #1f1f1f;
+}
+
+.hero-popup h1 {
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    color: #b88e2f;
+}
