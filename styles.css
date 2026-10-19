@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -9,16 +10,27 @@ header nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 2rem;
+    padding: 1rem 4rem;
     background-color: #fff;
+    position: sticky;
 }
 
-header nav ul a{
+header nav ul a {
     text-decoration: none;
+    color: black;
+    padding-inline: 1rem;
+}
+
+header nav ul a:hover{
+    text-decoration: none;
+    color: #007BFF;
 }
 
 header nav ul {
     list-style: none;
     display: flex;
     gap: 1rem;
+    font-family: "Merriweather", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
 }
